@@ -1,1 +1,7 @@
-secrets/
+folded/
+logs/
+testing/
+venv/
+
+*.pdb
+*.ipynb
